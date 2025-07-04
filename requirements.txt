@@ -5,7 +5,9 @@ torch<2.6
 tqdm
 librosa
 demucs
-onnxruntime-gpu
+onnxruntime
 PyQt5
 gradio==3.27.0
 matplotlib
+cog
+requests
